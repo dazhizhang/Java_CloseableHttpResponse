@@ -34,7 +34,8 @@ response = client.execute(get);
 		return get;
 	}
 
-参见：
+参考文献：
+
 httpclient4.4中文教程
 
 https://www.ibm.com/developerworks/cn/opensource/os-httpclient/
